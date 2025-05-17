@@ -32,5 +32,5 @@ Follow these steps to run the app locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/color-picker-react.git
-   cd color-picker-react
+   git clone https://github.com/SaiAdarsh619/Color_Picker.git
+   cd Color_Picker
